@@ -1,38 +1,61 @@
-# Machine Learning Content IEEE
+# 🚀 Machine Learning Content 2025 | IEEE FCIH  
 
-## Sessions Overview
+Welcome to the **Machine Learning Content 2025** repository! This repo contains structured **machine learning sessions** designed for IEEE FCIH SB members, covering foundational to advanced ML topics with **slides, code, and tasks**.  
 
-| Session Title | Tags | Slides | Code | Task |
-|--------------|------|--------|------|------|
-| Session 1: Introduction to ML | `Intro to Machine Learning`,`Intro to AI`, `Supervised Learning` , `AI market`, `Python`| [Slides](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/main/session_1_Intro_to_AI_and_Python/presentation) | [Code](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/main/session_1_Intro_to_AI_and_Python/code) | [Task](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/main/session_1_Intro_to_AI_and_Python/task) |
-
-
+📌 **Goal:** Provide a hands-on learning experience for students and enthusiasts in AI & Machine Learning.  
 
 ---
 
-## Instructors
+## 📅 Sessions Overview  
 
-- **Hossam Ahmed**  
-  - [LinkedIn](https://www.linkedin.com/in/hossamahmedsalah/)  
-  - [Kaggle](https://www.kaggle.com/hossamahmedsalah)
+| 📌 Session Title | 🏷️ Tags | 📜 Slides | 💻 Code | 🎯 Task |
+|-----------------|---------|----------|--------|--------|
+| **Session 1:** Introduction to ML | `Intro to Machine Learning`,`Intro to AI`, `Supervised Learning` , `AI market`, `Python` | [Slides](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/main/session_1_Intro_to_AI_and_Python/presentation) | [Code](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/main/session_1_Intro_to_AI_and_Python/code) | [Task](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/main/session_1_Intro_to_AI_and_Python/task) |
+| **Session 2:** Coming Soon | 🔜 Coming Soon | 🔜 Coming Soon | 🔜 Coming Soon | 🔜 Coming Soon |
 
-- **Ziad Waleed**  
-  - [LinkedIn](https://www.linkedin.com/in/ziadwaleed/)
-  - [Kaggle](https://www.kaggle.com/zzziadwaleed)  
-
-- **Mario Mamdouh**  
-  - [LinkedIn](https://www.linkedin.com/in/mariomamdouh/)  
-  - [Kaggle](https://www.kaggle.com/mariomamdouh23)  
-
----
-
-## IEEE FCIH SB Social Media
-
-- [Facebook](https://www.facebook.com/IEEE.FCIH) 
-- [Instagram](https://www.instagram.com/ieeefcih.sb/)  
-- [LinkedIn](https://www.linkedin.com/company/ieee-fcih-sb) 
-- [YouTube](https://www.youtube.com/@ieee.fcihsb)
+🔹 **More sessions will be added soon! Stay tuned!**  
 
 ---
 
 
+# 👨‍💻 Instructors  
+
+### 👨‍💻 Hossam Ahmed  
+<p>
+  <a href="https://www.linkedin.com/in/hossamahmedsalah/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/hossamahmedsalah/"><img src="https://img.shields.io/badge/Kaggle-%230098D6.svg?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://github.com/hossamahmedsalah/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+
+
+### 👨‍💻 Ziad Waleed  
+<p>
+  <a href="https://www.linkedin.com/in/ziadwaleed/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/zzziadwaleed/"><img src="https://img.shields.io/badge/Kaggle-%230098D6.svg?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://github.com/ziadwaleed/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+
+### 👨‍💻 Mario Mamdouh  
+<p>
+  <a href="https://www.linkedin.com/in/mariomamdouh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.kaggle.com/mariomamdouh23/"><img src="https://img.shields.io/badge/Kaggle-%230098D6.svg?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://github.com/mariomamdouh/"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 🌎 <span style="color:#007acc;">Connect with IEEE FCIH SB</span>
+
+Stay updated with our latest events and activities!  
+
+<p align="center">
+  <a href="https://www.facebook.com/IEEE.FCIH"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.instagram.com/ieeefcih.sb/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/company/ieee-fcih-sb"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.youtube.com/@ieee.fcihsb"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
+
+📌 **Join us and be part of an amazing learning experience! 🚀**  
+✨ **Enjoy Learning & Keep Exploring AI!** ✨
