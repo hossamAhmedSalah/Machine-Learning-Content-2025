@@ -21,7 +21,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 
 # 👨‍💻 Instructors  
 
-### 👨‍💻 Hossam Ahmed  
+### 👨‍💻 Hossam Ahmed - `Director`
 <p>
   <a href="https://www.linkedin.com/in/hossamahmedsalah/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/hossamahmedsalah/"><img src="https://img.shields.io/badge/Kaggle-%230098D6.svg?style=for-the-badge&logo=kaggle&logoColor=white"></a>
@@ -30,7 +30,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 
 
 
-### 👨‍💻 Ziad Waleed  
+### 👨‍💻 Ziad Waleed - `Vice Director`
 <p>
   <a href="https://www.linkedin.com/in/ziadwaleed/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/zzziadwaleed/"><img src="https://img.shields.io/badge/Kaggle-%230098D6.svg?style=for-the-badge&logo=kaggle&logoColor=white"></a>
@@ -38,7 +38,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 </p>
 
 
-### 👨‍💻 Mario Mamdouh  
+### 👨‍💻 Mario Mamdouh - `Vice Director`
 <p>
   <a href="https://www.linkedin.com/in/mariomamdouh/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/mariomamdouh23/"><img src="https://img.shields.io/badge/Kaggle-%230098D6.svg?style=for-the-badge&logo=kaggle&logoColor=white"></a>
