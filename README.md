@@ -12,7 +12,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 | 📌 Session Title | 🏷️ Tags | 📜 Slides | 💻 Code | 🎯 Task |
 |-----------------|---------|----------|--------|--------|
 | **Session 1:** Introduction to ML | `Intro to Machine Learning`,`Intro to AI`, `Supervised Learning` , `AI market`, `Python` | [Slides](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/main/session_1_Intro_to_AI_and_Python/presentation) | [Code](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/main/session_1_Intro_to_AI_and_Python/code) | [Task](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/main/session_1_Intro_to_AI_and_Python/task) |
-| **Session 2:** Linear Algebra for ML | 🔜 Coming Soon | 🔜 Coming Soon | 🔜 Coming Soon | 🔜 Coming Soon |
+| **Session 2:** Linear Algebra for ML | `Vectors`, `Linear Combinations`, `Linear Transformations`, `matrix multiplication`, `Norms`, `Norms and distance`, `Dot product`, `cosine similarity`, `Determinants` | 🔜 Coming Soon | 🔜 Coming Soon | 🔜 Coming Soon |
 
 🔹 **More sessions will be added soon! Stay tuned!**  
 
