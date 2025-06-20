@@ -1,4 +1,4 @@
-![logo ieee (1)](https://github.com/user-attachments/assets/0db4717d-fe13-4add-aeff-d8ab96f267b7)
+![image](https://github.com/user-attachments/assets/d3e5784e-ba4e-47d1-9142-1d7e504a4d85)![logo ieee (1)](https://github.com/user-attachments/assets/0db4717d-fe13-4add-aeff-d8ab96f267b7)
 # 🚀 Machine Learning Content 2025 | IEEE FCIH  
 
 Welcome to the **Machine Learning Content 2025** repository! This repo contains structured **machine learning sessions** designed for IEEE FCIH SB members, covering foundational to advanced ML topics with **slides, code, and tasks**.  
@@ -18,7 +18,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 | **Session 5:** Exploratory Data Analysis (EDA)| `missing data`, `data skewness`, `outliers`, `plotting`| 🚫 | [Code](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/blob/main/session_5_Exploratory_Data_Analysis%20(EDA)/code/EDA.ipynb) <br> [Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data) <br> [📺Video](https://youtu.be/MTRuSX907bs) | 🔜 |
 | **Session 6:** Linear Regression| `regression`,`Linear regression`, `Loss function`, `Cost function`, `Mean Absolute Error (MAE)`, `Mean Squared Error (MSE)`, `residuals`, `Normal equation`, `Gradient descent`, `Stochastic Gradient Descent`, `mini-batch Gradient Descent`, `Polynomial regressions`, `Piecewise Linear Regression`| [Slides](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/blob/main/Session%206_Linear_Regression/presentation/Linear%20Regression_IEEE.pdf) |[Code](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/blob/main/Session%206_Linear_Regression/code/LinearRegression.ipynb)  | [Task](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/6e065c0fd608a9c5bda8890e5a29d1348a840871/Session%206_Linear_Regression/Task) |
 | **Session 7:** Logistic Regression| `Classification`, `logistic function`, `sigmoid functions`, `Odds`, `logits`, `log loss`, `log likelihood`, `negative likelihood`, `Cross entropy`, `Newton method`, `polynomial regression` | [Slides](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/blob/main/session_7_Logistic_regression/presentation/Logistic%20Regression%20(IEEE)%20.pdf) | [Code](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/blob/main/session_7_Logistic_regression/code/LogisticRegression.ipynb) | [Task](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/tree/ec85b8bcd78da14e376712e83bc7f1a62190c1fc/session_7_Logistic_regression/Task) |
-
+| **Session 8:** Decision Tree| `Generalization`, `Decision Tree Classifier`, `Decision Tree regressior`, `Cross validation`, `Grid search`, `Tree pruning` |🔜|🔜 |🔜 |
 
 🔹 **More sessions will be added soon! Stay tuned!**  
 
