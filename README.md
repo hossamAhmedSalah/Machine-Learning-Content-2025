@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d3e5784e-ba4e-47d1-9142-1d7e504a4d85)![logo ieee (1)](https://github.com/user-attachments/assets/0db4717d-fe13-4add-aeff-d8ab96f267b7)
+![logo ieee (1)](https://github.com/user-attachments/assets/0db4717d-fe13-4add-aeff-d8ab96f267b7)
+
 # 🚀 Machine Learning Content 2025 | IEEE FCIH  
 
 Welcome to the **Machine Learning Content 2025** repository! This repo contains structured **machine learning sessions** designed for IEEE FCIH SB members, covering foundational to advanced ML topics with **slides, code, and tasks**.  
