@@ -23,7 +23,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 | **Session 9:** Ensembel| `Bootsrapping`, `Bagging`, `Boosting`, `stacking`, `Random Forest`, `Gradient Boosting`, `Ada Boosting`|[Slides](session_9_Ensemble_Learning/presentation/Ensemble_IEEE.pdf)| [Code](session_9_Ensemble_Learning/code/digit-classification-ensemble-techniques.ipynb)  [   ➕Extra code](session_9_Ensemble_Learning/extra_code/Ensemble_learning_IEEE.ipynb) |🚫No task |
 | **Session 10:** Unsupervised Learning| `K-means`, `Segmentation`, `PCA`, `ICA`, `Audio data`, `gradio`|[Slides](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/blob/main/session_10_Unsupervised_Learning/presentation/Unsupervised%20Learning%20IEEE.pdf)| [Code](session_10_Unsupervised_Learning/code/unsupervised-learning-ieee.ipynb) <br> [📺Video](https://youtu.be/qf4gvtBbax4?si=ATDMk3m7sUOCAey1)|🚫No task|
 | **Session 11:** Artificial Neural Networks (ANN)| `Perceptron`, `Simple NN`, `Activation functions`, `Logistic`, `SoftMax`, `ReLU`, `Leaky ReLU`, `Tanh`, `Loss functions`, `backpropagation`|[Slides](session_11_Artificial_Neural_Networks/presentation)| [Code](session_11_Artificial_Neural_Networks/code/ANN.ipynb) |🚫No task |
-| **Session 12:** Convolutional Neural Networks (CNN)| `Convolution layer`, `Pooling layer`, `Fully connected layer`, `Dialation`, `LeNET`, `AlexNET`, `VGG16`, `VGG19`, `Pretraind-models`, `fine-tuning`|🔜| 🔜 |🔜 |
+| **Session 12:** Convolutional Neural Networks (CNN)| `Convolution layer`, `Pooling layer`, `Fully connected layer`, `Dialation`, `LeNET`, `AlexNET`, `VGG16`, `VGG19`, `Pretraind-models`, `fine-tuning`, `Data Augmentation`|🔜| 🔜 |🔜 |
 
 
 🔹 **More sessions will be added soon! Stay tuned!**  
