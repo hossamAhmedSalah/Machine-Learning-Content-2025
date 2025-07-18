@@ -52,7 +52,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
         </div>
         <h3>💳 Credit Card Fraud Detection</h3>
         <p>
-          <a href="https://github.com/yourusername/credit-card-fraud">
+          <a href="https://github.com/YousefM20/Card-Fraud-Detection">
             <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
         </p>
@@ -93,12 +93,12 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
         </p>
       </td>
       <td align="center" width="25%" style="padding: 15px;">
-        <div style="width: 100%; height: 120px; background-color: #f6f8fa; border: 2px dashed #d1d9e0; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-          <span style="color: #6a737d; font-size: 14px;">📹 Video Coming Soon</span>
-        </div>
+        <a href="https://www.youtube.com/watch?v=-nLNFz8xcP0" target="_blank">
+          <img src="https://img.youtube.com/vi/-nLNFz8xcP0/maxresdefault.jpg" width="100%" alt="House Prices Prediction" style="border-radius: 8px; border: 1px solid #d1d9e0;">
+        </a>
         <h3>🏠 House Prices Prediction</h3>
         <p>
-          <a href="https://github.com/yourusername/house-prices-regression">
+          <a href="https://github.com/MoazMohamed100/House_prediction">
             <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
         </p>
