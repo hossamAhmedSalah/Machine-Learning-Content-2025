@@ -29,6 +29,107 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 🔹 **More sessions will be added soon! Stay tuned!**  
 
 ---
+## Members projects 
+<div align="center">
+  <h2>🎯 Featured Projects</h2>
+  
+  <table>
+    <tr>
+      <td align="center" width="25%" style="padding: 15px;">
+        <div style="width: 100%; height: 120px; background-color: #f6f8fa; border: 2px dashed #d1d9e0; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <span style="color: #6a737d; font-size: 14px;">📹 Video Coming Soon</span>
+        </div>
+        <h3>🤟 Arabic Sign Language Dataset 2022</h3>
+        <p>
+          <a href="https://github.com/yourusername/arabic-sign-language">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+        </p>
+      </td>
+      <td align="center" width="25%" style="padding: 15px;">
+        <div style="width: 100%; height: 120px; background-color: #f6f8fa; border: 2px dashed #d1d9e0; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <span style="color: #6a737d; font-size: 14px;">📹 Video Coming Soon</span>
+        </div>
+        <h3>💳 Credit Card Fraud Detection</h3>
+        <p>
+          <a href="https://github.com/yourusername/credit-card-fraud">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+        </p>
+      </td>
+      <td align="center" width="25%" style="padding: 15px;">
+        <a href="https://youtu.be/RQ3yKhto-bM?si=gmJjQqxvJlYWZmX8" target="_blank">
+          <img src="https://img.youtube.com/vi/RQ3yKhto-bM/maxresdefault.jpg" width="100%" alt="Fashion-MNIST" style="border-radius: 8px; border: 1px solid #d1d9e0;">
+        </a>
+        <h3>👗 Fashion-MNIST</h3>
+        <p>
+          <a href="https://github.com/mooowalid/Fashion-MNIST-Classification-using-XGboost">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+        </p>
+      </td>
+      <td align="center" width="25%" style="padding: 15px;">
+        <div style="width: 100%; height: 120px; background-color: #f6f8fa; border: 2px dashed #d1d9e0; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <span style="color: #6a737d; font-size: 14px;">📹 Video Coming Soon</span>
+        </div>
+        <h3>🤲 Sign Language MNIST</h3>
+        <p>
+          <a href="https://github.com/yourusername/sign-language-mnist">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%" style="padding: 15px;">
+        <div style="width: 100%; height: 120px; background-color: #f6f8fa; border: 2px dashed #d1d9e0; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <span style="color: #6a737d; font-size: 14px;">📹 Video Coming Soon</span>
+        </div>
+        <h3>🏦 IEEE-CIS Fraud Detection</h3>
+        <p>
+          <a href="https://github.com/yourusername/ieee-cis-fraud">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+        </p>
+      </td>
+      <td align="center" width="25%" style="padding: 15px;">
+        <div style="width: 100%; height: 120px; background-color: #f6f8fa; border: 2px dashed #d1d9e0; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <span style="color: #6a737d; font-size: 14px;">📹 Video Coming Soon</span>
+        </div>
+        <h3>🏠 House Prices Prediction</h3>
+        <p>
+          <a href="https://github.com/yourusername/house-prices-regression">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+        </p>
+      </td>
+      <td align="center" width="25%" style="padding: 15px;">
+        <div style="width: 100%; height: 120px; background-color: #f6f8fa; border: 2px dashed #d1d9e0; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <span style="color: #6a737d; font-size: 14px;">📹 Video Coming Soon</span>
+        </div>
+        <h3>🚕 NYC Taxi Trip Duration</h3>
+        <p>
+          <a href="https://github.com/Aly-11/NYC_Taxi_Trip_Duration">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+        </p>
+      </td>
+      <td align="center" width="25%" style="padding: 15px;">
+        <div style="width: 100%; height: 120px; background-color: #f6f8fa; border: 2px dashed #d1d9e0; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+          <span style="color: #6a737d; font-size: 14px;">📹 Video Coming Soon</span>
+        </div>
+        <h3>🌅 Day & Night Classification</h3>
+        <p>
+          <a href="https://github.com/yourusername/dayandnight-classification">
+            <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 
 # 👨‍💻 Instructors  
