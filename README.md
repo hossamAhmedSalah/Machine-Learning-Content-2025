@@ -24,7 +24,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 | **Session 10:** Unsupervised Learning| `K-means`, `Segmentation`, `PCA`, `ICA`, `Audio data`, `gradio`|[Slides](https://github.com/IEEE-FCIH-SB/Machine-Learning-Content-2025/blob/main/session_10_Unsupervised_Learning/presentation/Unsupervised%20Learning%20IEEE.pdf)| [Code](session_10_Unsupervised_Learning/code/unsupervised-learning-ieee.ipynb) <br> [📺Video](https://youtu.be/qf4gvtBbax4?si=ATDMk3m7sUOCAey1)|🚫No task|
 | **Session 11:** Artificial Neural Networks (ANN)| `Perceptron`, `Simple NN`, `Activation functions`, `Logistic`, `SoftMax`, `ReLU`, `Leaky ReLU`, `Tanh`, `Loss functions`, `backpropagation`|[Slides](session_11_Artificial_Neural_Networks/presentation)| [Code](session_11_Artificial_Neural_Networks/code/ANN.ipynb) |🚫No task |
 | **Session 12:** Convolutional Neural Networks (CNN)| `Convolution layer`, `Pooling layer`, `Fully connected layer`, `Dialation`, `LeNET`, `AlexNET`, `VGG16`, `VGG19`, `Pretraind-models`, `fine-tuning`, `Data Augmentation`|[Slides](session_12_Convolution_Neural_Networks/presenetation)<br> [📺Video](https://youtu.be/YbZ_3ICkYug)| [Code](session_12_Convolution_Neural_Networks/code/cnn.ipynb) | 🚫No task |
-| **Session 13:** Sequence Modeling| `Sequence data`, `RNN`, `LSTM`, `GRU`, `Text data`|[Slides](session_13_Sequence_Modeling/presentation/Sequence_modeling_IEEE.pdf)| [Code](session_13_Sequence_Modeling/code) <br> [📺Video](https://youtu.be/bDRe0StlK4w?si=IA0PEXu-bpuKZMmI)| 🚫No task |
+| **Session 13:** Sequence Modeling| `Sequence data`, `RNN`, `LSTM`, `GRU`, `Text data`|[Slides](session_13_Sequence_Modeling/presentation/Sequence_modeling_IEEE.pdf)<br> [📺Video](https://youtu.be/QL81EMUSu24?si=vUPxbaMWXd61Uf4i)| [Code](session_13_Sequence_Modeling/code) <br> [📺Video](https://youtu.be/bDRe0StlK4w?si=IA0PEXu-bpuKZMmI)| 🚫No task |
 
 🔹 **More sessions will be added soon! Stay tuned!**  
 
@@ -74,7 +74,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
         </div>
         <h3>🤲 Sign Language MNIST</h3>
         <p>
-          <a href="https://github.com/yourusername/sign-language-mnist">
+          <a href="https://github.com/kinzy4/sign_language_classifier">
             <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
         </p>
