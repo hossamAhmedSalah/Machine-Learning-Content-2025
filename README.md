@@ -30,6 +30,8 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 
 ---
 ## Members projects 
+> The project, by a team of 2-3 members, included well-documented code, a 20-30 slide presentation, and a 5-10 minute explanatory video. It was deployed with an interactive GUI using tools like Gradio or Streamlit, and promoted on LinkedIn, GitHub, YouTube, and Kaggle. Key technical elements involved PCA for feature reduction, image segmentation for feature extraction, and model evaluation using metrics like Accuracy and Precision. Hyperparameter tuning was done via k-fold cross-validation and grid search to optimize performance.
+
 <div align="center">
   <h2>🎯 Featured Projects</h2>
   
