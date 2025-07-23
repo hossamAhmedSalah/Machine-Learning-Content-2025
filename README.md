@@ -25,8 +25,8 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 | **Session 11:** Artificial Neural Networks (ANN)| `Perceptron`, `Simple NN`, `Activation functions`, `Logistic`, `SoftMax`, `ReLU`, `Leaky ReLU`, `Tanh`, `Loss functions`, `backpropagation`|[Slides](session_11_Artificial_Neural_Networks/presentation)| [Code](session_11_Artificial_Neural_Networks/code/ANN.ipynb) |🚫No task |
 | **Session 12:** Convolutional Neural Networks (CNN)| `Convolution layer`, `Pooling layer`, `Fully connected layer`, `Dialation`, `LeNET`, `AlexNET`, `VGG16`, `VGG19`, `Pretraind-models`, `fine-tuning`, `Data Augmentation`|[Slides](session_12_Convolution_Neural_Networks/presenetation)<br> [📺Video](https://youtu.be/YbZ_3ICkYug)| [Code](session_12_Convolution_Neural_Networks/code/cnn.ipynb) | 🚫No task |
 | **Session 13:** Sequence Modeling| `Sequence data`, `RNN`, `LSTM`, `GRU`, `Text data`|[Slides](session_13_Sequence_Modeling/presentation/Sequence_modeling_IEEE.pdf)<br> [📺Video](https://youtu.be/QL81EMUSu24?si=vUPxbaMWXd61Uf4i)| [Code](session_13_Sequence_Modeling/code) <br> [📺Video](https://youtu.be/bDRe0StlK4w?si=IA0PEXu-bpuKZMmI)| 🚫No task |
+| **Session 14:** Transformers| `Sequence data`, `Encoder-Decoder`, `BERT`, `BART`, `GPT`, `LLM`, `Attention`|🔜|🔜| 🚫No task |
 
-🔹 **More sessions will be added soon! Stay tuned!**  
 
 ---
 ## Members projects 
