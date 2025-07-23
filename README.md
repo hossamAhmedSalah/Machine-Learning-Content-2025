@@ -48,7 +48,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
       </td>
       <td align="center" width="25%" style="padding: 15px;">
        <a href="https://youtu.be/XlWoN0s6U6M?si=jwhB07BXKBpf_jVJ" target="_blank">
-          <img src="https://img.youtube.com/vi/XlWoN0s6U6M/maxresdefault.jpg" width="100%" alt="Fashion-MNIST" style="border-radius: 8px; border: 1px solid #d1d9e0;">
+          <img src="https://img.youtube.com/vi/XlWoN0s6U6M/maxresdefault.jpg" width="100%" alt="💳 Credit Card Fraud Detection" style="border-radius: 8px; border: 1px solid #d1d9e0;">
         </a>
         <h3>💳 Credit Card Fraud Detection</h3>
         <p>
@@ -69,9 +69,9 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
         </p>
       </td>
       <td align="center" width="25%" style="padding: 15px;">
-        <div style="width: 100%; height: 120px; background-color: #f6f8fa; border: 2px dashed #d1d9e0; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-          <span style="color: #6a737d; font-size: 14px;">📹 Video Coming Soon</span>
-        </div>
+        <a href="https://youtu.be/4j-wWK2OIsQ?si=yaxXx2jMANGX7g38" target="_blank">
+          <img src="https://i.pinimg.com/1200x/e3/69/50/e369508ed53ec5de5ec316d27e35b5d0.jpg" width="100%" alt="🤲 Sign Language MNIST" style="border-radius: 8px; border: 1px solid #d1d9e0;">
+        </a>
         <h3>🤲 Sign Language MNIST</h3>
         <p>
           <a href="https://github.com/kinzy4/sign_language_classifier">
@@ -87,7 +87,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
         </div>
         <h3>🏦 IEEE-CIS Fraud Detection</h3>
         <p>
-          <a href="https://github.com/yourusername/ieee-cis-fraud">
+          <a href="https://github.com/Maya22-lab/Fraud-detection">
             <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
           </a>
         </p>
@@ -115,8 +115,8 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
         </p>
       </td>
       <td align="center" width="25%" style="padding: 15px;">
-        <a href="https://day-or-night-unveiling-t-5b7cn1t.gamma.site/" target="_blank">
-          <img src="https://i.pinimg.com/736x/8e/fe/e6/8efee61d1c7bda44bb47436bff3cb6fa.jpg" width="100%" alt="NYC Taxi Trip Duration" style="border-radius: 8px; border: 1px solid #d1d9e0;">
+        <a href="https://youtu.be/jhgD0_vsvl0?si=Vdi3BpvGiNhPdyCZ" target="_blank">
+          <img src="https://img.youtube.com/vi/jhgD0_vsvl0/maxresdefault.jpg" width="100%" alt="NYC Taxi Trip Duration" style="border-radius: 8px; border: 1px solid #d1d9e0;">
         </a>
         <h3>🌅 Day & Night Classification</h3>
         <p>
