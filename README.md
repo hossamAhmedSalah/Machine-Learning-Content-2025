@@ -39,7 +39,7 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
     <tr>
       <td align="center" width="25%" style="padding: 15px;">
         <a href="https://youtu.be/1zNSCmUJYdg?si=biJSwF3_wInZz78M" target="_blank">
-          <img src="https://img.youtube.com/vi/1zNSCmUJYdg/maxresdefault.jpg" width="100%" alt="NYC Taxi Trip Duration" style="border-radius: 8px; border: 1px solid #d1d9e0;">
+          <img src="https://img.youtube.com/vi/1zNSCmUJYdg/maxresdefault.jpg" width="100%" alt="Arabic Sign Language Dataset" style="border-radius: 8px; border: 1px solid #d1d9e0;">
         </a>
         <h3>🤟 Arabic Sign Language Dataset 2022</h3>
         <p>
@@ -84,9 +84,9 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
     </tr>
     <tr>
       <td align="center" width="25%" style="padding: 15px;">
-        <div style="width: 100%; height: 120px; background-color: #f6f8fa; border: 2px dashed #d1d9e0; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
-          <span style="color: #6a737d; font-size: 14px;">📹 Video Coming Soon</span>
-        </div>
+        <a href="https://drive.google.com/drive/folders/1pYeqtQOhDgH3gP5X9W9Ee37LcYn9uTsJ" target="_blank">
+          <img src="https://i.pinimg.com/736x/44/57/f2/4457f2067ed9e4bb0d4f32026412a728.jpg" width="100%" alt="IEEE-CIS Fraud Detection" style="border-radius: 8px; border: 1px solid #d1d9e0;">
+        </a>
         <h3>🏦 IEEE-CIS Fraud Detection</h3>
         <p>
           <a href="https://github.com/Maya22-lab/Fraud-detection">
