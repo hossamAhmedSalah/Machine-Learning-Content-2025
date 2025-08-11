@@ -132,7 +132,8 @@ Welcome to the **Machine Learning Content 2025** repository! This repo contains 
 </div>
 
 ---
-
+## Certifications validation page 
+[✨ validate or see the certified members ✨](https://hossam-ahmed.notion.site/23b3acab40d3806eb504c26c26bf264a?v=23b3acab40d380a1992e000c6f87d99c&source=copy_link) 
 
 # 👨‍💻 Instructors  
 
